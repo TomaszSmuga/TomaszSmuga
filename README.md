@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there Web-Traveler👋
 
+- 👋 I’m **Tomek Smuga**  
+
+- 👀 I’m mainly interested in Sailing, e-Sports, Martial arts and Traveling
+
+- 👨🏻‍💻 My technicall skills: [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,git)](https://skills.thijs.gg)
+
+- 💞️ I would love to collaborate on Front-end Projects with any other Frontend Developers or UI/UX Designers so dont hesitate to contact me! 
+
+- 📫 Feel free to contact me: <smuga2505tomek@gmail.com>
 <!--
 **TomaszSmuga/TomaszSmuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
